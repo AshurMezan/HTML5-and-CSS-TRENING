@@ -1,0 +1,29 @@
+table {
+  color:black;
+  border-radius: 8px;
+  border: 2px solid red;
+}
+p {
+  color: #483D8B;
+}
+
+.privet01 {
+  color: #8B4513;
+  font-family: "Arial";
+  font-style: italic;
+  font-size: 15px;
+  text-shadow: 1px 1px 2px black;
+  }
+
+[class="privet02"] {
+    font-family: "Snell Roundhand, cursive";
+    font-weight: bold;
+    color: #DAA520
+}
+
+#privet03 {
+border:1px solid #ccc; /*рамка*/
+background:#eaeaea; /*фон*/
+padding: 10px 10px; /*отступы внутри*/
+text-decoration: none; /*убрать подчеркивание ссылки*/
+}
